@@ -1,2 +1,2 @@
 # TEST_repo
-Only Texting purpose
+Only Testing purpose
